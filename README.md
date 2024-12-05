@@ -20,6 +20,9 @@ Data Set: https://www.yelp.com/dataset
 ## Dataset Files
 Download the dataset from the Yelp UI and upload the json files - Reviews & Business in MongoDB using Atlas.
 
+## High Level Architecture
+![image](https://github.com/user-attachments/assets/5652c198-3954-447b-b80d-d141979c587b)
+
 ## Notebooks
 The complete project is divided into below steps.
 The input , output  and description is provided for all the notebooks.
@@ -33,9 +36,12 @@ Please make sure the notebooks are run sequentially .
 | [ML Model notebook](https://github.com/JananiAbhinav/YelpReviewsSentimentAnalysis/tree/main/ML%20model%20notebook)  | Sentiment analysis of review data through ML models & NLP techniques for vectorization|
 
 ## Models implemented:​
-Logistic Regression
-Naive Bayes
+Logistic Regression, 
+Naive Bayes, 
 MultiLayerPerceptron Classifier - Deep Learning
+
+![image](https://github.com/user-attachments/assets/0ce5990c-b4fc-4b78-994e-5ad24c09dc44)
+
 
 ## Future Enhancement
 Aspect-Based Sentiment Analysis:
